@@ -1,0 +1,4 @@
+[submodule "GreenSpot"]
+	path = GreenSpot
+	url = https://github.com/JClerc/GreenSpot.git
+	branch = master
